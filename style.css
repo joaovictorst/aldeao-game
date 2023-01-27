@@ -38,6 +38,7 @@
 }
 
 .game-over{
+  
   display: none;
   position: fixed;
   top: 0;
